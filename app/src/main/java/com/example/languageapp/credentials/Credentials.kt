@@ -1,0 +1,4 @@
+package com.example.languageapp.credentials
+
+val key: String = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxhbW1rYmp3cGxlZm1yeGZoYXNlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTMzODM4MzUsImV4cCI6MjAyODk1OTgzNX0.KjLQ5L09JxpjaVKrGLhNPf2HMXVrEagehWXD-VC04-g"
+val url: String = "https://lammkbjwplefmrxfhase.supabase.co"
